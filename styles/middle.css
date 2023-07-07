@@ -1,0 +1,156 @@
+.middle-side {
+
+    width: 735px;
+    margin-left: 242px;
+
+
+}
+
+.stories-profile {
+    width: 58px;
+    height: 58px;
+    border-radius: 30px;
+    object-fit: cover;
+    display: flex;
+    ;
+
+}
+
+.stories-space {
+
+    height: 150px;
+    display: flex;
+
+    justify-content: center;
+    padding-left: 0px;
+}
+
+.stories {
+    border: 2px rgba(148, 147, 147, 0.617) solid;
+    width: 62px;
+    height: 59px;
+    display: flex;
+    justify-content: center;
+    border-radius: 35px;
+}
+
+.stories-font {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif, arial;
+    font-size: 12px;
+}
+
+.photo-grid {
+    display: flex;
+    flex-direction: column;
+    width: 520px;
+    margin-left: 108px;
+    margin-top: 30px;
+
+
+
+}
+
+.owner {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 520px;
+    margin-bottom: 7px;
+}
+
+.profil-owner-focus {
+    display: flex;
+    align-items: center;
+
+    height: 50px;
+
+}
+
+.profil-img-owner {
+    width: 38px;
+    height: 38px;
+    border-radius: 25px;
+    padding: 0;
+    margin: 0;
+
+}
+
+.name-owner {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif, arial;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+.dots-3 {
+    width: 15px;
+}
+
+.the-photo {
+    width: 520px;
+    border-radius: 7px;
+}
+
+.tanggapan-post {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.like-comment {
+    display: flex;
+    margin-top: 10px
+}
+
+.like {
+    width: 23px;
+    margin-right: 15px;
+}
+
+.comment {
+    width: 24px;
+    margin-right: 15px;
+}
+
+
+.share {
+    width: 23px;
+    margin-right: 15px;
+}
+
+.save-post-icon {
+    width: 22px;
+    margin-top: 10px
+}
+
+.like-post {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif, arial;
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+
+span {
+    font-weight: 600;
+}
+
+.captions-post {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif, arial;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.view-comment {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif, arial;
+    font-size: 14px;
+    color: grey;
+    margin-bottom: 5px;
+}
+
+.add-comment {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif, arial;
+    font-size: 14px;
+    color: grey;
+    border-bottom: 1px rgba(199, 197, 197, 0.741) solid;
+    height: 35px;
+}

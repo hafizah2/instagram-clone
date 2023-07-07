@@ -1,0 +1,52 @@
+.left-side {
+    background-color: ;
+    width: 221px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    padding-left: 28px;
+    padding-top: 40px;
+    border-right: 1px rgba(178, 178, 178, 0.639) solid;
+}
+
+.instagram-font {
+    width: 118px;
+    margin-bottom: 50px;
+}
+
+.icon-div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.icon-img {
+    margin-right: 15px;
+}
+
+.icon-img-2 {
+    width: 28px;
+}
+
+.icon-img-3 {
+    width: 20px;
+    padding-left: 5px;
+}
+
+.more {
+    margin-top: 30px;
+}
+
+.icon-font {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, arial;
+}
+
+.home {
+    font-weight: bold;
+}
+
+.profile-one {
+    border-radius: 20px;
+}
